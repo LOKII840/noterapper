@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/noterapper/static/js/main.f46d1582.chunk.js",
+    "main.js.map": "/noterapper/static/js/main.f46d1582.chunk.js.map",
+    "runtime-main.js": "/noterapper/static/js/runtime-main.83450901.js",
+    "runtime-main.js.map": "/noterapper/static/js/runtime-main.83450901.js.map",
+    "static/js/2.ec7c55b8.chunk.js": "/noterapper/static/js/2.ec7c55b8.chunk.js",
+    "static/js/2.ec7c55b8.chunk.js.map": "/noterapper/static/js/2.ec7c55b8.chunk.js.map",
+    "index.html": "/noterapper/index.html",
+    "precache-manifest.445675268f8e2d37ff835bc71df690db.js": "/noterapper/precache-manifest.445675268f8e2d37ff835bc71df690db.js",
+    "service-worker.js": "/noterapper/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83450901.js",
+    "static/js/2.ec7c55b8.chunk.js",
+    "static/js/main.f46d1582.chunk.js"
+  ]
+}
